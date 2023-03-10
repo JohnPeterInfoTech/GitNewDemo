@@ -5,7 +5,8 @@ public class ArithOperation {
 		
 	int  a=5,b=6;
 	
-		
+		int d= a*b;
+		System.out.println(d);
 		
 		
 		
